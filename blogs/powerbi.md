@@ -1,7 +1,7 @@
 # Power BI Blogs
 -
 
-*Last updated - 6/19/2016*
+*Last updated - 11/10/2016*
 
 - [Power BI Product Team Blog](https://powerbi.microsoft.com/blog/)
 - [Power BI Community blogs](http://community.powerbi.com/t5/Community-Blog/bg-p/community_blog)
@@ -21,3 +21,4 @@
 - Dan English [denglighbi](https://denglishbi.wordpress.com/)
 - [Darren Gosbell](http://geekswithblogs.net/darrengosbell/Default.aspx)
 - [Business Intelligence Insight](http://biinsight.com/)
+- Koen Verbeeck [SQLKover](http://sqlkover.com)
